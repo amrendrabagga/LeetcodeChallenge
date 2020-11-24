@@ -2,7 +2,7 @@ package november.week4;
 
 import utils.TreeNode;
 
-public class Day1_HouseRobber3 {
+public class Day2_HouseRobber3 {
     public int rob(TreeNode root) {
         if (root == null) return 0;
         int val = 0;
