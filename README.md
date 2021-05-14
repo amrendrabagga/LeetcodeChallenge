@@ -1,6 +1,6 @@
 # LeetcodeChallenge
 
-This repository contains leetcode challenges from april till date except for may month.  
+This repository contains leetcode challenges from april till december 20 except for may month.  
 
 Each question below is represented in form of month name then week number and then day number, question link points to leetcode challenge and solution to repo file.
 
